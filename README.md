@@ -1,4 +1,11 @@
 # global-retail-sales-analysis
+## Dataset
+
+The dataset used in this project is too large to upload directly to GitHub.
+
+You can download the full dataset here:
+[Download Dataset](https://docs.google.com/spreadsheets/d/1FbMnMDvRzy08uNqsCdnV5YyDf9lXvUeS/edit?usp=drivesdk&ouid=115620001334291940118&rtpof=true&sd=true)
+
 Project Overview
 This project analyzes global retail transaction data to uncover sales trends, customer behavior, and revenue drivers. The goal is to transform raw transactional data into actionable business insights using a complete end-to-end data analysis workflow.
 The project demonstrates core data analyst skills, including:
